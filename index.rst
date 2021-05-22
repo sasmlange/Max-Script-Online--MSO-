@@ -13,14 +13,16 @@ Max Script Online (MSO)
 
 What is Max Script Online (MSO)
 ********************************
-Max Max Script Online (MSO) is a modern easy to use tool for HTML. It is a JavaScript Library that can makes
-coding with more then one HTML page easy. You can code you Navigation only once for more then one HTML page.
+Max Max Script Online (MSO) is a modern easy to use tool for HTML. It is a
+JavaScript Library that can makes coding with more then one HTML page easy.
+You can code you Navigation only once for more then one HTML page.
 
 
 Step 1: Code the Template
 **************************
 
-Coding your template is just like coding a regular HTML page. Try the following code:
+Coding your template is just like coding a regular HTML page. I will put
+the following code into *template.html*
 
 .. code-block:: html
 
@@ -45,4 +47,14 @@ with **}>**.
 Step 2: Make the page
 **************************
 
-Now we have to
+Now we have to apply the template. The basic skeleton for these pages looks
+like the following:
+
+.. code-block:: html
+    :linenos:
+
+    <!DOCTYPE html>
+    <script src="https://centillionware.com/js/mso.js"></script>
+    <body onload>
+
+    </body>
