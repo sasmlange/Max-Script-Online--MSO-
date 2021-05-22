@@ -27,10 +27,12 @@ Coding your template is just like coding a regular HTML page. Try the following 
     <!DOCTYPE html>
     <html lang="en">
         <body>
-            <!-- This is a Nav navigation. We will write the pages later -->
+            <!-- This is a navigation. We will create these pages later -->
             <a href="index.html">Home</a> / <a href="index.html">About</a>
+            <br>
+            <{Body}>
         </body>
 
     </html>
 
-
+This looks like an html page, but what about **<{Body}>**?
