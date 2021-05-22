@@ -56,7 +56,8 @@ like the following. I will put the code in *index.html*
     <!DOCTYPE html>
     <script src="https://centillionware.com/js/mso.js"></script>
     <body onload="MsoSetup('', [])">
-        
+
     </body>
 
-Okay. What did we do?
+Okay. What did we do? On line 2 we imported Max Script Online (MSO).
+On the next line 
