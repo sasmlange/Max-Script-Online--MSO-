@@ -48,7 +48,7 @@ Step 2: Make the page
 **************************
 
 Now we have to apply the template. The basic skeleton for these pages looks
-like the following:
+like the following. I will put the code in *index.html*
 
 .. code-block:: html
     :linenos:
