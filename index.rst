@@ -14,7 +14,7 @@ Max Script Online (MSO)
 What is Max Script Online (MSO)
 ********************************
 Max Script Online (MSO) is a modern easy to use tool for HTML. It is a
-JavaScript Library that can makes coding with more than one HTML page easy.
+JavaScript Library that can make coding with more than one HTML page easy.
 You only need to code your navigation once for more than one HTML page.
 
 
