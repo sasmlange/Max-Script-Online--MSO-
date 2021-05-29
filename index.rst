@@ -13,9 +13,9 @@ Max Script Online (MSO)
 
 What is Max Script Online (MSO)
 ********************************
-Max Max Script Online (MSO) is a modern easy to use tool for HTML. It is a
-JavaScript Library that can makes coding with more then one HTML page easy.
-You can code you Navigation only once for more then one HTML page.
+Max Script Online (MSO) is a modern easy to use tool for HTML. It is a
+JavaScript Library that can makes coding with more than one HTML page easy.
+You only need to code your navigation once for more than one HTML page.
 
 
 Step 1: Code the Template
@@ -61,12 +61,12 @@ like the following. I will put the code in *index.html*
     </body>
 
 Okay. What did we do? On line 2 we imported Max Script Online (MSO).
-On the next line we have the body element and when the it loads it
+On the next line we have the body element and when it loads it
 executes **MsoSetup**. The first parameter in **MsoSetup** is for the
 path to your template. I will put **template.html**. Most modern browsers
 do not support reading from a file that is not on the same server. The
 next parameter is for all the placeholders. To add them to the parameters
-they are added in the javascript list.
+they are added in the JavaScript list.
 
 .. code-block:: html
     :linenos:
@@ -77,9 +77,9 @@ they are added in the javascript list.
 
     </body>
 
-All right! We added the parameters! Now we have to say what gos into the
-placeholders. You can do this by using any html tag. To mark what parameter
-it is the id of the tag must be one of the placeholders. I will use **div**.
+All right! We added the parameters! Now we have to specify what goes into the
+placeholders. You can do this by using any html tag. To mark what placeholder
+it is, the id of the tag must be one of the placeholders. I will use **div**.
 
 .. code-block:: html
     :linenos:
@@ -93,7 +93,7 @@ it is the id of the tag must be one of the placeholders. I will use **div**.
         </div>
     </body>
 
-Ok! We have set the placeholders.
+Okay! We have set the placeholders.
 
 
 Step 3: Testing the page
