@@ -30,7 +30,7 @@ the following code into *template.html*
     <html lang="en">
         <body>
             <!-- This is a navigation. We will create these pages later -->
-            <a href="index.html">Home</a> / <a href="index.html">About</a>
+            <a href="index.html">Home</a> / <a href="about.html">About</a>
             <br>
             <h1 style="color: darkgreen"><{Title}></h1>
             <{Body}>
