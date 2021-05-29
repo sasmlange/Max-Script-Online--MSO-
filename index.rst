@@ -61,4 +61,5 @@ like the following. I will put the code in *index.html*
     </body>
 
 Okay. What did we do? On line 2 we imported Max Script Online (MSO).
-On the next line
+On the next line we have the body element and when the it loads it
+executes **MsoSetup**. The first parameter in **MsoSetup** is 
