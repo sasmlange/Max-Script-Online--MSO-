@@ -62,4 +62,33 @@ like the following. I will put the code in *index.html*
 
 Okay. What did we do? On line 2 we imported Max Script Online (MSO).
 On the next line we have the body element and when the it loads it
-executes **MsoSetup**. The first parameter in **MsoSetup** is 
+executes **MsoSetup**. The first parameter in **MsoSetup** is for the
+path to your template. I will put **template.html**. Most modern browsers
+do not support reading from a file that is not on the same server. The
+next parameter is for all the placeholders. To add them to the parameters
+they are added in the javascript list.
+
+.. code-block:: html
+    :linenos:
+
+    <!DOCTYPE html>
+    <script src="https://centillionware.com/js/mso.js"></script>
+    <body onload="MsoSetup('template.html', ['Title', 'Body'])">
+
+    </body>
+
+All right! We added the parameters! Now we have to say what gos into the
+placeholders. You can do this by using any html tag. To mark what parameter
+it is the id of the tag must be one of the placeholders. I will use **div**.
+
+.. code-block:: html
+    :linenos:
+
+    <!DOCTYPE html>
+    <script src="https://centillionware.com/js/mso.js"></script>
+    <body onload="MsoSetup('template.html', ['Title', 'Body'])">
+        <div id="Title">Home Page</div>
+        <div id="Body">
+            This is the best body that has <b>bold</b> text.
+        </div>
+    </body>
