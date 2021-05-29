@@ -92,3 +92,14 @@ it is the id of the tag must be one of the placeholders. I will use **div**.
             This is the best body that has <b>bold</b> text.
         </div>
     </body>
+
+Ok! We have set the placeholders.
+
+
+Step 3: Testing the page
+**************************
+
+To test the page, you cannot just double click on it in your files. For
+safety reasons you can only run this on http:// or https://.
+
+
