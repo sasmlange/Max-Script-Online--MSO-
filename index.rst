@@ -25,7 +25,6 @@ Coding your template is just like coding a regular HTML page. I will put
 the following code into *template.html*
 
 .. code-block:: html
-    :linenos:
 
     <!DOCTYPE html>
     <html lang="en">
@@ -52,7 +51,6 @@ Now we have to apply the template. The basic skeleton for these pages looks
 like the following. I will put the code in *index.html*
 
 .. code-block:: html
-    :linenos:
 
     <!DOCTYPE html>
     <script src="https://centillionware.com/js/mso.js"></script>
@@ -69,7 +67,6 @@ next parameter is for all the placeholders. To add them to the parameters
 they are added in the JavaScript list.
 
 .. code-block:: html
-    :linenos:
 
     <!DOCTYPE html>
     <script src="https://centillionware.com/js/mso.js"></script>
@@ -82,7 +79,6 @@ placeholders. You can do this by using any html tag. To mark what placeholder
 it is, the id of the tag must be one of the placeholders. I will use **div**.
 
 .. code-block:: html
-    :linenos:
 
     <!DOCTYPE html>
     <script src="https://centillionware.com/js/mso.js"></script>
