@@ -25,6 +25,7 @@ Coding your template is just like coding a regular HTML page. I will put
 the following code into *template.html*
 
 .. code-block:: html
+    :linenos:
 
     <!DOCTYPE html>
     <html lang="en">
