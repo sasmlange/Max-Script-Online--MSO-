@@ -129,6 +129,7 @@ can make a local server.
 
 
 The output (Click to enlarge)
+
 .. image:: IndexOnly.png
   :width: 800
   :alt: Alternative text
