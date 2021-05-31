@@ -137,5 +137,27 @@ The output (Click to enlarge)
 Step 4: Make the About Page
 ****************************
 
-You can use the template more then once. Lets make an about page to try it
+You can use the template more then once. Lets make an about page to
+try it. We can it about. I will put the code in *about.html*.
+
+.. code-block:: html
+
+    <!DOCTYPE html>
+    <script src="https://centillionware.com/js/mso.js"></script>
+    <body onload="MsoSetup('template.html', ['Title', 'Body'])">
+        <div id="Title">About Page</div>
+        <div id="Body">
+           This is a little about page. <br><br>
+
+            <div style="border: 1px solid black;">
+                <h1>John Doe</h1>
+                <h3>Boss of Doe Inc.</h3>
+                <p>In 2010, John Doe founded Doe Inc. When his first custmer came he was so happy.</p>
+            </div>
+        </div>
+    </body>
+
+If we test it it should show this:
+
+
 
