@@ -126,6 +126,11 @@ local server. Some Editors like
 `Pycharm <https://www.jetbrains.com/pycharm/>`_
 can make a local server.
 
+
+.. image:: IndexOnly.png
+  :width: 400
+  :alt: Alternative text
+
 Step 4: Make the About Page
 ****************************
 
