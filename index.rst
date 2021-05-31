@@ -96,6 +96,10 @@ Step 3: Testing the page
 **************************
 
 To test the page, you cannot just double click on it in your files. For
-safety reasons you can only run this on http:// or https://.
+safety reasons you can only run this on http:// or https://, not file://.
+If you have a file on your local computer that you want to run you can use a
+local server. Some Editors like
+`Pycharm <https://www.jetbrains.com/pycharm/>`_
+can make a local server
 
 
