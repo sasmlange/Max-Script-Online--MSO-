@@ -85,7 +85,29 @@ it is, the id of the tag must be one of the placeholders. I will use **div**.
     <body onload="MsoSetup('template.html', ['Title', 'Body'])">
         <div id="Title">Home Page</div>
         <div id="Body">
-            This is the best body that has <b>bold</b> text.
+            This is the index page. <br> <br>
+
+            Tables can look good <br>
+            <table style="border-collapse: collapse; width: 100%;" border="1">
+                <thead>
+                    <th>Col 1</th>
+                    <th>Col 2</th>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>Row 1, Col 1</td>
+                        <td>Row 1, Col 2</td>
+                    </tr>
+
+                    <tr>
+                        <td>Row 2, Col 1</td>
+                        <td>Row 2, Col 2</td>
+                    </tr>
+                </tbody>
+
+            </table>
+
         </div>
     </body>
 
@@ -104,7 +126,6 @@ can make a local server.
 
 Step 4: Make the About Page
 ****************************
-
 
 
 
