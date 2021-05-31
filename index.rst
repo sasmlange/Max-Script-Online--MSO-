@@ -3,7 +3,7 @@
    :maxdepth: 2
    :caption: Contents:
 
-   Documentation <index>
+   index
 
 
 
