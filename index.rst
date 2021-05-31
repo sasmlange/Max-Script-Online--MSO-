@@ -102,8 +102,8 @@ local server. Some Editors like
 `Pycharm <https://www.jetbrains.com/pycharm/>`_
 can make a local server.
 
-Step 3: Testing the page
-**************************
+Step 4: Make the About Page
+****************************
 
 
 
