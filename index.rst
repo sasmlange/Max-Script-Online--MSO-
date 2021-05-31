@@ -128,7 +128,7 @@ can make a local server.
 
 
 
-The output (Click to enlarge)
+The output (Click to enlarge):
 
 .. image:: IndexOnly.png
   :width: 800
@@ -157,7 +157,7 @@ try it. We can it about. I will put the code in *about.html*.
         </div>
     </body>
 
-If we test it it should show this:
+If we test it it should show this (Click to enlarge):
 
 .. image:: IndexToAbout.gif
   :width: 800
