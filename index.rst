@@ -130,11 +130,11 @@ can make a local server.
 
 The output (Click to enlarge)
 .. image:: IndexOnly.png
-  :width: 400
+  :width: 800
   :alt: Alternative text
 
 Step 4: Make the About Page
 ****************************
 
-
+You can use the template more then once. Lets make an about page to try it
 
