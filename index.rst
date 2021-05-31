@@ -159,5 +159,7 @@ try it. We can it about. I will put the code in *about.html*.
 
 If we test it it should show this:
 
-
+.. image:: IndexToAbout.gif
+  :width: 800
+  :alt: Alternative text
 
