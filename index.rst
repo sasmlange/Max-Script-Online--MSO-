@@ -127,6 +127,8 @@ local server. Some Editors like
 can make a local server.
 
 
+
+The output (Click to enlarge)
 .. image:: IndexOnly.png
   :width: 400
   :alt: Alternative text
