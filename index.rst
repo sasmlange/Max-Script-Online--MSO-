@@ -34,6 +34,8 @@ the following code into *template.html*
             <br>
             <h1 style="color: darkgreen"><{Title}></h1>
             <{Body}>
+            <br>
+            <small>Footers can be used for copyright</small>
         </body>
 
     </html>
