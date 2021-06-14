@@ -3,7 +3,8 @@
    :maxdepth: 2
    :caption: Contents:
 
-   index
+    index
+    templates
 
 
 
