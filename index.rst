@@ -4,7 +4,6 @@
    :caption: Contents:
 
     index
-    templates
 
 
 
