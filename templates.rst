@@ -1,5 +1,5 @@
 MSO Web Page Templates
-========================
+=======================
 
 The following includes templates that can make your MSO project shine.
 
