@@ -123,7 +123,7 @@ The output (Click to enlarge):
 
 .. image:: IndexOnly.png
   :width: 800
-  :alt: Alternative text
+  :alt: The Index Page
 
 Step 4: Make the About Page
 ****************************
@@ -152,7 +152,7 @@ If we test it it should show this (Click to enlarge):
 
 .. image:: IndexToAbout.gif
   :width: 800
-  :alt: Alternative text
+  :alt: The Index and About page
 
 
 
