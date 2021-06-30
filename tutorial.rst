@@ -23,15 +23,15 @@ the following code into *template.html*
             <!-- This is a navigation. We will create these pages later -->
             <a href="index.html">Home</a> / <a href="about.html">About</a>
             <br>
-            <h1 style="color: darkgreen"><{Title}></h1>
-            <{Body}>
+            <h1 style="color: darkgreen"><{Header}></h1>
+            <{Content}>
             <br>
             <small>Footers can be used for copyright</small>
         </body>
 
     </html>
 
-This looks like an html page, but what about **<{Body}>** and **<{Title}>**
+This looks like an html page, but what about **<{Content}>** and **<{Header}>**
 tag objects? This is a placeholder for where code will go later on. You
 can call them whatever you want as long as it starts with **<{** and ends
 with **}>**.
@@ -63,7 +63,7 @@ they are added in the JavaScript list.
 
     <!DOCTYPE html>
     <script src="https://centillionware.com/js/mso.js"></script>
-    <body onload="MsoSetup('template.html', ['Title', 'Body'])">
+    <body onload="MsoSetup('template.html', ['Header', 'Content'])">
 
     </body>
 
@@ -75,9 +75,9 @@ it is, the id of the tag must be one of the placeholders. I will use **div**.
 
     <!DOCTYPE html>
     <script src="https://centillionware.com/js/mso.js"></script>
-    <body onload="MsoSetup('template.html', ['Title', 'Body'])">
-        <div id="Title">Home Page</div>
-        <div id="Body">
+    <body onload="MsoSetup('template.html', ['Header', 'Content'])">
+        <div id="Header">Home Page</div>
+        <div id="Content">
             This is the index page. <br> <br>
 
             Tables can look good <br>
@@ -135,9 +135,9 @@ try it. We can it about. I will put the code in *about.html*.
 
     <!DOCTYPE html>
     <script src="https://centillionware.com/js/mso.js"></script>
-    <body onload="MsoSetup('template.html', ['Title', 'Body'])">
-        <div id="Title">About Page</div>
-        <div id="Body">
+    <body onload="MsoSetup('template.html', ['Header', 'Content'])">
+        <div id="Header">About Page</div>
+        <div id="Content">
            This is a little about page. <br><br>
 
             <div style="border: 1px solid black;">
