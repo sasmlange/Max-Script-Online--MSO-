@@ -20,7 +20,7 @@ the following code into *template.html*
     <!DOCTYPE html>
     <html lang="en">
         <body>
-            <!-- This is a navigation. We will create these pages later -->
+            <!-- This is the navigation for the pages. We will create these pages later -->
             <a href="index.html">Home</a> / <a href="about.html">About</a>
             <br>
             <h1 style="color: darkgreen"><{Header}></h1>
@@ -129,7 +129,7 @@ Step 4: Make the About Page
 ****************************
 
 You can use the template more then once. Lets make an about page to
-try it. We can it about. I will put the code in *about.html*.
+try it. I will put the code in *about.html*.
 
 .. code-block:: html
 
@@ -148,7 +148,7 @@ try it. We can it about. I will put the code in *about.html*.
         </div>
     </body>
 
-If we test it it should show this (Click to enlarge):
+If we test it, it should show this (Click to enlarge):
 
 .. image:: IndexToAbout.gif
   :width: 800
