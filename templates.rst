@@ -15,7 +15,7 @@ header and footer it will make you website shine.
   :alt: All pages of Aqua Refresh
 
 
-`Click to Download <https://centillionware.com/mso/templates/aquarefresh/aquarefresh.zip>`_ /
+`Click to Download <https://www.centillionware.com/mso/templates/aquarefresh/aquarefresh.zip>`_ /
 `Click to Preview <https://centillionware.com/mso/templates/aquarefresh/demo/index.html>`_
 
 
